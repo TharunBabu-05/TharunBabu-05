@@ -1,7 +1,14 @@
 # 💫 About Me:
-<img align="right" width="370" height="290" src="https://github.com/TharunBabu-05/TharunBabu-05/blob/main/hardware.gif?raw=true" alt="Developer Animation">
+<img align="right" width="380" src="https://github.com/TharunBabu-05/TharunBabu-05/blob/main/hardware.gif?raw=true" alt="Developer Animation">
 
-🔭 I’m currently working on embedded AI, FPGA-based systems, and real-time sensor integration for smart and automotive applications<br><br>👯 I’m looking to collaborate on embedded systems, FPGA design, edge AI, and IoT-based projects<br><br>🤝 I’m looking for help with advanced automotive systems (ADAS), high-speed hardware design, and scalable AI deployment on edge devices<br><br>🌱 I’m currently learning automotive electronics, real-time OS (RTOS), and advanced FPGA/SoC architectures<br><br>💬 Ask me about FPGA (Vivado/Vitis), embedded systems (ESP32/STM32), communication protocols (UART, SPI, I2C, CAN), and edge AI<br><br>⚡ Fun fact: I’ve built real-world hardware projects ranging from AI-powered checkout systems to FPGA-based proximity warning systems 🚀<br>
+- 🔭 **Currently working on:** Embedded AI, FPGA-based systems, & real-time sensor integration for automotive applications.
+- 🌱 **Currently learning:** Automotive electronics, RTOS, and advanced FPGA/SoC architectures.
+- 👯 **Looking to collaborate on:** Embedded systems, FPGA design, Edge AI, and IoT projects.
+- 🤝 **Looking for help with:** Advanced ADAS systems, high-speed hardware design, & scalable AI deployment on edge devices.
+- 💬 **Ask me about:** FPGA (Vivado/Vitis), Embedded (ESP32/STM32), protocols (UART, SPI, I2C, CAN), and Edge AI.
+- ⚡ **Fun fact:** I’ve built real-world hardware projects ranging from AI-powered checkout systems to FPGA proximity warning systems 🚀
+
+<br/>
 
 
 ## 🌐 Socials:
